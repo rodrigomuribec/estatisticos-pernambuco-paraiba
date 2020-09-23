@@ -1,0 +1,1 @@
+### Script inicial de análises ####
